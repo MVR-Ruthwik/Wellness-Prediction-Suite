@@ -43,7 +43,7 @@ python app.py
 4. View personalized disease predictions and dietary recommendations. 📊
 5. Provide feedback via the interface to help improve the system. 📝
 
-For more detailed instructions, please refer to the [documentation](projectDocumentation.pdf) 📚.
+For more detailed instructions, please refer to the [documentation](Documentation.pdf) 📚.
 
 ## Project Structure 🏗️
 - **Data Collection and Processing** 📂: Preprocesses health data for model training.
