@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wellness Prediction Suite 🩺💻
 
 ## Overview 🌟
@@ -57,3 +58,6 @@ For more detailed instructions, please refer to the [documentation](projectDocum
 
 ---
 You can also download the models from [Here]( https://drive.google.com/drive/folders/1DbsJaiHoURN0igsKeIm2gOm16wylpwEz?usp=drive_link )
+=======
+# Wellness-Prediction-Suite
+>>>>>>> 49edb221b6379e9ffa88d68b95bc3e1ae7676762
